@@ -5,8 +5,7 @@ that was written in Go.  This one is written in Rust as a learning project and
 to see how it compares (in difficulty) to the Go version.  See the original
 [here](https://github.com/gotbadger/mandelbrot).
 
-Mandelbrot in go. Image is drawn to the terminal so you will need to be using
-iTerm2 The image is written to `fractal.png` (and will overwrite it) so you'll
+The image is written to `fractal.png` (and will overwrite it) so you'll
 need an image viewer to see the image generated.
 
 
