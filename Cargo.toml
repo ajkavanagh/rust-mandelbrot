@@ -1,0 +1,11 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Alex Kavanagh <alex@ajkavanagh.co.uk>"]
+
+[dependencies]
+num = "0.1.39"
+image = "0.14.0"
+docopt = "0.8.1"
+serde = "1.0"
+serde_derive = "1.0"
